@@ -1,15 +1,6 @@
 
 <div align="center">
 
-```bash
-saman@github:~$ whoami
-
-Data Scientist
-Kaggle Grandmaster
-Machine Learning Engineer
-Curiosity Driven Builder
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=2500&color=8B949E&center=true&vCenter=true&width=900&lines=Learning+in+Public.;Building+AI+Systems.;One+Notebook+at+a+Time.;Curiosity+Led+the+Way."/>
 
 <br>
