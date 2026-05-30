@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/samanfatima7"><img src="https://img.shields.io/badge/Kaggle-Legacy%20Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/samanfatima7"><img src="https://img.shields.io/badge/Kaggle%20Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saman-fatima-datascience/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://lablab.ai/u/@safima__"><img src="https://img.shields.io/badge/lablab.ai-Hacker-7C3AED?style=for-the-badge"/></a>
 </p>
@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm **Saman Fatima** — a data scientist from Pakistan and a Kaggle Legacy Grandmaster (rank #191 of 62,137). I work across the stack: exploratory analysis, classical ML, deep learning for vision and language, time-series, and lately a lot of LLM and agent-based work through hackathons.
+I'm **Saman Fatima** — a data scientist from Pakistan and a Kaggle Grandmaster (rank #191 of 62,137). I work across the stack: exploratory analysis, classical ML, deep learning for vision and language, time-series, and lately a lot of LLM and agent-based work through hackathons.
 
 My approach is simple — start from the data, ask honest questions, and build something that actually answers them. I write notebooks the way I wish someone had written them for me when I was starting out: clearly, with the reasoning shown, and with results you can reproduce.
 
