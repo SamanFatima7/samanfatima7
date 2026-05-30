@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm **Saman Fatima** — a data scientist from Pakistan and a Kaggle Grandmaster (rank #191 of 62,137). I work across the stack: exploratory analysis, classical ML, deep learning for vision and language, time-series, and lately a lot of LLM and agent-based work through hackathons.
+I'm **Saman Fatima** — a data scientist from Pakistan and a Kaggle Grandmaster (rank #191 of 62,137 (highest ever: 24). I work across the stack: exploratory analysis, classical ML, deep learning for vision and language, time-series, and lately a lot of LLM and agent-based work through hackathons.
 
 My approach is simple — start from the data, ask honest questions, and build something that actually answers them. I write notebooks the way I wish someone had written them for me when I was starting out: clearly, with the reasoning shown, and with results you can reproduce.
 
