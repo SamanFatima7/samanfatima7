@@ -1,10 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=18&duration=4500&pause=1200&color=7A7A7A&center=true&vCenter=true&width=900&lines=Data+Scientist;Kaggle+Grandmaster;Learning+in+Public;Building+AI+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=3000&color=8B949E&center=true&vCenter=true&width=700&lines=Learning+in+Public.;Building+AI+Systems.;Curiosity+Led+the+Way."/>
 
 # Saman Fatima
 
 *Data Science: where curiosity meets insights.*
+
+<br>
+
+<pre>
+Pakistan 🇵🇰
+
+Kaggle Grandmaster
+
+Machine Learning • Deep Learning • NLP • Computer Vision • AI
+</pre>
 
 <br>
 
@@ -22,8 +36,10 @@
 
 </div>
 
+<br>
+
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -56,7 +72,7 @@ Outside of building projects, I enjoy helping aspiring Kagglers and data-science
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -96,7 +112,7 @@ DATA SCIENCE
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -127,7 +143,7 @@ Highest Rank : 24
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -170,16 +186,16 @@ Groq · Llama · OpenAI · LangChain
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,vscode"/>
 
-</p>
+</div>
 
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -244,7 +260,7 @@ Full writeups are available in the **ai-hackathons** repository.
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -259,7 +275,7 @@ Full writeups are available in the **ai-hackathons** repository.
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/74038190/216656990-ed4a4f8f-c4d2-4df3-bac5-8b0f8b8d6c2f.gif" width="100%">
 </p>
 
 <br>
@@ -287,17 +303,17 @@ https://lablab.ai/u/@safima__
 
 <div align="center">
 
-> Good models answer questions.  
-> Great questions create better models.
+<i>
+Most projects here started with curiosity.<br>
+The rest followed from there.
+</i>
 
-<br>
+<br><br>
 
-<sub>
+<sub>Learning publicly • Building continuously • Improving one project at a time</sub>
 
-Learning publicly.  
-Building continuously.  
-Improving one project at a time.
+<br><br>
 
-</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 
-</div>
+</div>  
