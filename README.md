@@ -1,41 +1,11 @@
-<!-- SAMAN FATIMA — GitHub Profile README -->
-
 <div align="center">
-
-<!-- HERO -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=020408&height=200&text=SAMAN%20FATIMA&fontColor=00ff88&fontSize=52&fontAlignY=45&desc=DATA%20SCIENTIST%20//%20KAGGLE%20GRANDMASTER%20//%20AI%20BUILDER&descAlignY=72&descSize=13&descColor=1a6644&animation=fadeIn&stroke=00ff8822&strokeWidth=1" width="100%"/>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&repeat=true&width=500&lines=%2F%2F+KAGGLE+GRANDMASTER;%2F%2F+DATA+SCIENTIST;%2F%2F+NLP+%26+VISION+ENGINEER;%2F%2F+AI+BUILDER;%2F%2F+MENTOR)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
-
----
-
-## `[01]` — RANK & METRICS
-
-<div align="center">
-
-| GLOBAL RANK | NOTEBOOKS | UPVOTES | FORKS |
-|:-----------:|:---------:|:-------:|:-----:|
-| **#191** / 62,137 | **39** | **6,892** | **4,651** |
-
-</div> 
-
-<div align="center">
-
-![Rank Bar](https://progress-bar.xyz/99/?scale=100&title=TOP%200.3%25%20GLOBALLY&width=500&color=00ff88&suffix=%25)
-
-</div>
-
-<div align="center">
 
 [![Kaggle](https://img.shields.io/badge/KAGGLE_GRANDMASTER-00BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=020408)](https://www.kaggle.com/samanfatima7)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020408)](https://www.linkedin.com/in/saman-fatima-datascience/)
@@ -43,9 +13,45 @@
 
 </div>
 
+<br/>
+
+> `//` Start from the data. Ask honest questions. Build something that actually answers them.
+
+<br/>
+
 ---
 
-## `[02]` — MISSION BRIEFING
+## `[01]` RANK & METRICS
+
+<div align="center">
+
+| GLOBAL RANK | NOTEBOOKS | UPVOTES | FORKS |
+|:-----------:|:---------:|:-------:|:-----:|
+| **#191** of 62,137 | **39** | **6,892** | **4,651** |
+
+</div>
+
+```
+MEDAL LOADOUT   🥇 4 GOLD   🥈 27 SILVER   🥉 6 BRONZE   //  HIGHEST RANK EVER: #24
+```
+
+<div align="center">
+
+![](https://progress-bar.xyz/99/?scale=100&title=TOP%200.3%25%20GLOBALLY&width=500&color=00ff88&suffix=%25)
+
+</div>
+
+---
+
+## `[02]` MISSION BRIEFING
+
+```
+OPERATOR    : Saman Fatima
+LOCATION    : Pakistan
+CLEARANCE   : Kaggle Grandmaster
+SPECIALITY  : ML · DL · NLP · Time-Series · LLM Agents
+STATUS      : OPEN TO COLLABORATE ●
+```
 
 I work across the full stack — EDA, classical ML, deep learning for vision & language, time-series, and increasingly **LLM & agent-based systems**. I write notebooks the way I wish someone had written them for me: **clearly, with reasoning shown, results you can reproduce.**
 
@@ -53,7 +59,15 @@ Outside of building, I **mentor juniors** and help aspiring Kagglers find their 
 
 ---
 
-## `[03]` — SKILL MATRIX
+## `[03]` SKILL MATRIX
+
+```
+[ ML / CLASSICAL ]      scikit-learn · XGBoost · LightGBM · CatBoost
+[ DEEP LEARNING  ]      TensorFlow · Keras · PyTorch · RNN · BiLSTM
+[ DATA / VIZ     ]      pandas · NumPy · Polars · Plotly · Seaborn · Matplotlib
+[ LLM / AGENTS   ]      LangChain · Groq · Llama · OpenAI
+[ LANGUAGES      ]      Python · SQL
+```
 
 <div align="center">
 
@@ -62,6 +76,7 @@ Outside of building, I **mentor juniors** and help aspiring Kagglers find their 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-020408?style=flat-square&logo=scikit-learn&logoColor=00ff88)
 ![XGBoost](https://img.shields.io/badge/XGBoost-020408?style=flat-square&logoColor=00ff88)
 ![LightGBM](https://img.shields.io/badge/LightGBM-020408?style=flat-square&logoColor=00ff88)
+![CatBoost](https://img.shields.io/badge/CatBoost-020408?style=flat-square&logoColor=00ff88)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-020408?style=flat-square&logo=tensorflow&logoColor=00ff88)
 ![PyTorch](https://img.shields.io/badge/PyTorch-020408?style=flat-square&logo=pytorch&logoColor=00ff88)
 ![Keras](https://img.shields.io/badge/Keras-020408?style=flat-square&logo=keras&logoColor=00ff88)
@@ -77,7 +92,7 @@ Outside of building, I **mentor juniors** and help aspiring Kagglers find their 
 
 ---
 
-## `[04]` — REPOSITORY INDEX
+## `[04]` REPOSITORY INDEX
 
 | ID | REPO | MISSION |
 |----|------|---------|
@@ -91,26 +106,43 @@ Outside of building, I **mentor juniors** and help aspiring Kagglers find their 
 
 ---
 
-## `[05]` — MISSION FILES // HACKATHONS
+## `[05]` MISSION FILES
 
-**`MISSION 01`** — Urdu Legal E-Commerce Agent 
+**`MISSION 01`** — Urdu Legal E-Commerce Agent
+```
+STACK    : Llama · Groq · Multi-Agent · LangChain
+MISSION  : Simplifies Pakistani legal documents in plain Urdu
+RESULT   : Multi-agent system — one parses legalese, one explains in Urdu
+LINK     : https://lablab.ai/ai-hackathons/raise-your-hack/binary-ninjas/legal-e-commerce-ai-agent
+```
 
 **`MISSION 02`** — Python Buddy
+```
+STACK    : OpenAI · Socratic Hint Engine · Automated Code Coach
+MISSION  : AI tutor that guides — never gives the answer directly
+RESULT   : Deployed Socratic learning system + real-time code review
+LINK     : https://lablab.ai/ai-hackathons/co-creating-with-gpt-5/code-commanders/ai-master
+```
 
 **`MISSION 03`** — Predictive Network Maintenance ×2
+```
+STACK    : AI Agents · Predictive ML · Connectivity Systems
+MISSION  : Predict network failures for off-grid schools
+RESULT   : Two separate builds — AIstronauts & AI for Connectivity hackathons
+LINK 01  : https://lablab.ai/ai-hackathons/aistronauts-space-agents-on-a-mission/ai-astronauts/predictive-network-maintenance-system
+LINK 02  : https://lablab.ai/ai-hackathons/ai-for-connectivity-hackathon/dreamscape-agenz/predictive-network-maintenance-system
+```
 
 ---
 
-## `[06]` — GITHUB STATS
+## `[06]` GITHUB STATS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samanfatima7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00ff88&icon_color=00ff88&text_color=1a6644&ring_color=00ff88&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samanfatima7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00ff88&icon_color=00ff88&text_color=1a6644&rank_icon=github"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanfatima7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00ff88&text_color=1a6644"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samanfatima7&theme=dark&hide_border=true&background=020408&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=1a6644&dates=1a6644&currStreakNum=00ff88&sideNums=00ff88)](https://git.io/streak-stats)
 
@@ -118,9 +150,15 @@ Outside of building, I **mentor juniors** and help aspiring Kagglers find their 
 
 ---
 
-## `[07]` — ESTABLISH CONTACT
+## `[07]` ESTABLISH CONTACT
 
 <div align="center">
+
+```
+CHANNEL 01 : linkedin.com/in/saman-fatima-datascience
+CHANNEL 02 : kaggle.com/samanfatima7
+CHANNEL 03 : lablab.ai/u/@safima__
+```
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020408)](https://www.linkedin.com/in/saman-fatima-datascience/)
 [![Kaggle](https://img.shields.io/badge/FOLLOW_ON_KAGGLE-00BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=020408)](https://www.kaggle.com/samanfatima7)
@@ -131,5 +169,5 @@ Outside of building, I **mentor juniors** and help aspiring Kagglers find their 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=020408&height=40&text=PKT+//+DATA+SCIENTIST+//+OPEN+TO+COLLABORATE+●&fontColor=00ff8844&fontSize=11&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020408&height=50&text=PKT%20//%20DATA%20SCIENTIST%20//%20OPEN%20TO%20COLLABORATE&fontColor=00ff8877&fontSize=12&fontAlignY=55" width="100%"/>
 </div>
