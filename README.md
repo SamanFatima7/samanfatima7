@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,100:7C3AED&text=SAMAN%20FATIMA&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=SAMAN+FATIMA;DATA+SCIENTIST+%7C+AI+BUILDER;KAGGLE+GRANDMASTER"/>
 
-# ⚡ DATA SCIENTIST • KAGGLE LEGACY GRANDMASTER • AI BUILDER
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Intelligence;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+LLMs;Building+Agentic+AI+Systems;Kaggle+Legacy+Grandmaster"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284103-503adf0c-15c7-4a2f-b8cb-d6e0e72c5f1f.gif" width="100%">
 
 <br>
 
 <a href="https://www.kaggle.com/samanfatima7">
-<img src="https://img.shields.io/badge/Kaggle-Legacy_Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saman-fatima-datascience/">
@@ -17,52 +15,90 @@
 </a>
 
 <a href="https://lablab.ai/u/@safima__">
-<img src="https://img.shields.io/badge/lablab.ai-AI_Hacker-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/lablab.ai-Hacker-7C3AED?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 Mission Brief
-
-```yaml
-Name: Saman Fatima
-
-Role: Data Scientist
-
-Location: Pakistan 🇵🇰
-
-Recognition:
-  - Kaggle Legacy Grandmaster
-  - Highest Rank: #24
-  - Current Rank: #191
-
-Current Focus:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Natural Language Processing
-  - LLM Applications
-  - Agentic AI Systems
-  - AI Education Platforms
-```
-
-I transform raw data into intelligent systems.
-
-My work spans the entire machine learning lifecycle—from exploratory data analysis and feature engineering to deep learning, NLP, computer vision, time-series forecasting, and modern LLM-powered applications.
-
-I enjoy building projects that not only work, but also explain *why* they work. Every notebook, repository, and experiment is designed to be educational, reproducible, and practical.
-
----
-
-# 📊 Command Center
+# ⚡ SYSTEM OVERVIEW
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samanfatima7&show_icons=true&theme=tokyonight&hide_border=true"/>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    AI RESEARCH TERMINAL                      │
+├──────────────────────────────────────────────────────────────┤
+│ NAME          : SAMAN FATIMA                                │
+│ LOCATION      : PAKISTAN                                    │
+│ STATUS        : ACTIVE                                      │
+│ RANK          : KAGGLE GRANDMASTER (#191 / 62,137)          │
+│ PEAK RANK     : #24                                         │
+│ SPECIALTY     : DATA → INSIGHT → INTELLIGENCE              │
+│ CURRENT MODE  : BUILDING AI SYSTEMS                         │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samanfatima7&theme=tokyonight&hide_border=true"/>
+</div>
+
+I’m **Saman Fatima** — a data scientist from Pakistan and a Kaggle Grandmaster (rank **#191 of 62,137**).
+
+I work across the stack: exploratory analysis, classical machine learning, deep learning for vision and language, time-series forecasting, and lately a lot of **LLM** and **agent-based systems** through hackathons.
+
+My approach is simple:
+
+> **Start from the data. Ask honest questions. Build something that actually answers them.**
+
+I write notebooks the way I wish someone had written them for me when I was starting out: clearly, with the reasoning shown, and with results you can reproduce.
+
+Outside of building, I mentor juniors in the data-science community and help aspiring Kagglers find their footing on the platform.
+
+---
+
+# 🌌 REPOSITORY GALAXY
+
+```text
+                           DATA SCIENCE HUB
+                                   │
+      ┌────────────────────────────┼────────────────────────────┐
+      │                            │                            │
+      ▼                            ▼                            ▼
+
+  📊 EXPLORATION             🤖 MACHINE ML               👁️ COMPUTER VISION
+
+      │                            │                            │
+
+      ▼                            ▼                            ▼
+
+exploratory-data-         machine-learning-         deep-learning-
+analysis                  classical                 computer-vision
+
+
+      ▼                            ▼                            ▼
+
+  💬 NLP SYSTEMS             📈 TIME SERIES             🚀 AI HACKATHONS
+```
+
+| Repository | Description |
+|------------|------------|
+| 🔍 [exploratory-data-analysis](https://github.com/samanfatima7/exploratory-data-analysis) | EDA and data visualization notebooks covering billionaires, food production, app stores and public health |
+| 👁️ [deep-learning-computer-vision](https://github.com/samanfatima7/deep-learning-computer-vision) | CNN classifiers for plant disease, cats vs dogs and fruit quality |
+| 💬 [nlp-and-sequence-models](https://github.com/samanfatima7/nlp-and-sequence-models) | RNN and BiLSTM text models with red-teaming walkthroughs |
+| 🤖 [machine-learning-classical](https://github.com/samanfatima7/machine-learning-classical) | Fraud detection, regression and classification projects |
+| 🏆 [kaggle-competitions](https://github.com/samanfatima7/kaggle-competitions) | Baselines and starter notebooks for Kaggle competitions |
+| 📈 [time-series-and-finance](https://github.com/samanfatima7/time-series-and-finance) | Stock market and cryptocurrency forecasting notebooks |
+| 🚀 [ai-hackathons](https://github.com/samanfatima7/ai-hackathons) | LLM and agent-based hackathon projects |
+
+---
+
+# 📊 COMMAND CENTER
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanfatima7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samanfatima7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -74,21 +110,43 @@ I enjoy building projects that not only work, but also explain *why* they work. 
 
 ---
 
-# 🧠 Research & Development Areas
+# 🏆 KAGGLE PROFILE
 
-| Domain | Expertise |
-|----------|----------|
-| 📊 Data Science | Exploratory Data Analysis, Statistics |
-| 🤖 Machine Learning | Classification, Regression, Ensembles |
-| 👁️ Computer Vision | CNNs, Transfer Learning, Image Classification |
-| 💬 NLP | RNNs, BiLSTM, Transformers |
-| 📈 Time Series | Forecasting & Financial Modeling |
-| 🧠 LLMs | Prompt Engineering, RAG, AI Agents |
-| 🚀 AI Products | Hackathons, End-to-End Systems |
+**Kaggle** is my primary playground.
+
+So far:
+
+- 📚 39 Public Notebooks
+- 👍 6,892 Upvotes
+- 🔀 4,651 Forks
+
+Every notebook is paired with a detailed explanation that focuses not only on *what* works but *why* it works.
+
+```text
+KAGGLE MEDALS
+
+🥇 Gold     : 4
+🥈 Silver   : 27
+🥉 Bronze   : 6
+
+Current Rank : 191 / 62,137
+Peak Rank    : 24
+```
 
 ---
 
-# ⚙️ Tech Arsenal
+# ⚡ TECHNOLOGY MATRIX
+
+| Intelligence Layer | Technologies |
+|-------------------|--------------|
+| Programming | Python · SQL |
+| Data Processing | Pandas · NumPy · Polars |
+| Machine Learning | Scikit-Learn · XGBoost · LightGBM · CatBoost |
+| Deep Learning | TensorFlow · Keras · PyTorch |
+| Visualization | Matplotlib · Seaborn · Plotly |
+| LLMs & Agents | Groq · Llama · OpenAI · LangChain |
+
+<br>
 
 <div align="center">
 
@@ -96,108 +154,58 @@ I enjoy building projects that not only work, but also explain *why* they work. 
 
 </div>
 
-### Languages
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+# 🚀 AI MISSIONS
 
-### Machine Learning & Deep Learning
+Active on **lablab.ai**, where I build end-to-end AI products with multidisciplinary teams under tight deadlines.
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### ⚖️ Urdu Legal E-Commerce Agent
 
-### Data & Visualization
+A multi-agent system that simplifies Pakistani legal documents into understandable Urdu using Llama and Groq.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+### 🐍 Python Buddy
+
+An AI tutor featuring a Socratic hinting system and automated code coaching.
+
+### 🌐 Predictive Network Maintenance
+
+Two separate AI systems designed for monitoring and maintaining connectivity for off-grid educational environments.
+
+Explore full project writeups in:
+
+👉 **ai-hackathons repository**
 
 ---
 
-# 🌌 Repository Galaxy
-
-| Repository | Description |
-|------------|------------|
-| 🔍 [Exploratory Data Analysis](https://github.com/samanfatima7/exploratory-data-analysis) | Data exploration and visualization projects |
-| 👁️ [Deep Learning Computer Vision](https://github.com/samanfatima7/deep-learning-computer-vision) | CNNs and image classification systems |
-| 💬 [NLP & Sequence Models](https://github.com/samanfatima7/nlp-and-sequence-models) | Text classification and language models |
-| 🤖 [Machine Learning Classical](https://github.com/samanfatima7/machine-learning-classical) | Traditional ML projects |
-| 🏆 [Kaggle Competitions](https://github.com/samanfatima7/kaggle-competitions) | Competition baselines and solutions |
-| 📈 [Time Series & Finance](https://github.com/samanfatima7/time-series-and-finance) | Forecasting and market analysis |
-| 🚀 [AI Hackathons](https://github.com/samanfatima7/ai-hackathons) | Agentic AI and hackathon projects |
-
----
-
-# 🏆 Achievements
+# 🔭 CURRENT FOCUS
 
 ```text
-🥇 Kaggle Legacy Grandmaster
-
-📈 Highest Global Rank: #24
-
-🏅 Current Rank: #191 / 62,137
-
-📚 39 Public Notebooks
-
-👍 6,892+ Notebook Upvotes
-
-🔀 4,651+ Forks
-
-🚀 Multiple AI Hackathon Projects
-
-👩‍🏫 Mentor for Aspiring Data Scientists
+[✓] Agentic AI Systems
+[✓] LLM Applications
+[✓] AI Education Platforms
+[✓] Kaggle Competitions
+[✓] Open Source Learning Resources
+[✓] Mentoring Future Data Scientists
 ```
 
 ---
 
-# ⚡ AI Missions Completed
-
-| Project | Description |
-|----------|-------------|
-| ⚖️ Urdu Legal E-Commerce Agent | Multi-agent legal simplification system using Llama & Groq |
-| 🐍 Python Buddy | AI Tutor with Socratic guidance and automated code coaching |
-| 🌐 Predictive Network Maintenance | AI system for monitoring school connectivity |
-| 🤖 Multi-Agent AI Systems | Agent-based solutions developed during global hackathons |
-
----
-
-# 🔭 Current Focus
-
-- 🧠 Agentic AI Systems
-- 🚀 LLM Applications
-- 📊 Advanced Kaggle Competitions
-- 🎓 AI-Powered Education Platforms
-- 🌍 Open Source Contributions
-- 🤝 Mentoring Future Data Scientists
-
----
-
-# 📈 Kaggle Snapshot
-
-```text
-Kaggle Medals
-
-🥇 Gold   : 4
-🥈 Silver : 27
-🥉 Bronze : 6
-
-Highest Rank Ever : #24
-Current Rank      : #191
-```
-
----
-
-# 🐍 Contribution Activity
+# 📡 CONNECT
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/samanfatima7/samanfatima7/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://www.linkedin.com/in/saman-fatima-datascience/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/samanfatima7">
+<img src="https://img.shields.io/badge/KAGGLE-PROFILE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://lablab.ai/u/@safima__">
+<img src="https://img.shields.io/badge/LABLAB.AI-HACKER-7C3AED?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -205,25 +213,9 @@ Current Rank      : #191
 
 <div align="center">
 
-# 📡 Connect With Me
+### DATA → INSIGHT → INTELLIGENCE
 
-<a href="https://www.linkedin.com/in/saman-fatima-datascience/">
-LinkedIn
-</a>
-•
-<a href="https://www.kaggle.com/samanfatima7">
-Kaggle
-</a>
-•
-<a href="https://lablab.ai/u/@safima__">
-lablab.ai
-</a>
-
-<br><br>
-
-### "Turning curiosity into intelligence."
-
-<sub>Thanks for visiting my digital laboratory. Explore, learn, and build something extraordinary.</sub>
+*Thanks for stopping by. Explore the repositories, learn something new, and build something meaningful.*
 
 </div>
 
