@@ -1,84 +1,135 @@
-<h1 align="center">Hi, I'm Saman 👋</h1>
+<!-- SAMAN FATIMA — GitHub Profile README -->
 
-<p align="center">
-  <em>Data Science: where curiosity meets insights.</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.kaggle.com/samanfatima7"><img src="https://img.shields.io/badge/Kaggle%20Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saman-fatima-datascience/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://lablab.ai/u/@safima__"><img src="https://img.shields.io/badge/lablab.ai-Hacker-7C3AED?style=for-the-badge"/></a>
-</p>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020408&height=200&text=SAMAN%20FATIMA&fontColor=00ff88&fontSize=52&fontAlignY=45&desc=DATA%20SCIENTIST%20//%20KAGGLE%20GRANDMASTER%20//%20AI%20BUILDER&descAlignY=72&descSize=13&descColor=1a6644&animation=fadeIn&stroke=00ff8822&strokeWidth=1" width="100%"/>
 
----
+</div>
 
-### About me
+<br/>
 
-I'm **Saman Fatima** — a data scientist from Pakistan and a Kaggle Grandmaster (rank #191 of 62,137 (highest ever: 24). I work across the stack: exploratory analysis, classical ML, deep learning for vision and language, time-series, and lately a lot of LLM and agent-based work through hackathons.
+<div align="center">
 
-My approach is simple — start from the data, ask honest questions, and build something that actually answers them. I write notebooks the way I wish someone had written them for me when I was starting out: clearly, with the reasoning shown, and with results you can reproduce.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&repeat=true&width=500&lines=%2F%2F+KAGGLE+GRANDMASTER;%2F%2F+DATA+SCIENTIST;%2F%2F+NLP+%26+VISION+ENGINEER;%2F%2F+AI+BUILDER;%2F%2F+MENTOR)](https://git.io/typing-svg)
 
-Outside of building, I mentor juniors in the data-science community and help aspiring kagglers find their footing on the platform.
+</div>
+
+<br/>
 
 ---
 
-### What you'll find on this profile
+## `[01]` — RANK & METRICS
 
-This GitHub is organized by topic — each repository is a focused collection of work, not a dumping ground. If you're looking for something specific, here's the map:
+<div align="center">
 
-| Repo | What's inside |
-|---|---|
-| [`exploratory-data-analysis`](https://github.com/samanfatima7/exploratory-data-analysis) | EDA and data-viz notebooks — billionaires, food production, app stores, public health |
-| [`deep-learning-computer-vision`](https://github.com/samanfatima7/deep-learning-computer-vision) | CNN classifiers for plant disease, cats/dogs, fruit quality — most at 90%+ accuracy |
-| [`nlp-and-sequence-models`](https://github.com/samanfatima7/nlp-and-sequence-models) | RNN and BiLSTM text models, plus a full red-teaming walkthrough |
-| [`machine-learning-classical`](https://github.com/samanfatima7/machine-learning-classical) | Tabular ML — fraud detection, regression, classification |
-| [`kaggle-competitions`](https://github.com/samanfatima7/kaggle-competitions) | Baselines and starter notebooks for Kaggle competitions |
-| [`time-series-and-finance`](https://github.com/samanfatima7/time-series-and-finance) | Stock-price and crypto-market starter notebooks |
-| [`ai-hackathons`](https://github.com/samanfatima7/ai-hackathons) | Agent and LLM projects from lablab.ai hackathons |
+| GLOBAL RANK | NOTEBOOKS | UPVOTES | FORKS |
+|:-----------:|:---------:|:-------:|:-----:|
+| **#191** / 62,137 | **39** | **6,892** | **4,651** |
 
----
+</div> 
 
-### Where I work most
+<div align="center">
 
-[**Kaggle**](https://www.kaggle.com/samanfatima7) is my primary playground. 39 public notebooks so far, 6,892 upvotes, 4,651 forks — every notebook there is paired with a writeup that explains the *why* alongside the code.
+![Rank Bar](https://progress-bar.xyz/99/?scale=100&title=TOP%200.3%25%20GLOBALLY&width=500&color=00ff88&suffix=%25)
 
-```
-Kaggle medals:   🥇 4   🥈 27   🥉 6
-Current rank:    191 / 62,137   (highest ever: 24)
-```
+</div>
 
----
+<div align="center">
 
-### Toolbox
+[![Kaggle](https://img.shields.io/badge/KAGGLE_GRANDMASTER-00BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=020408)](https://www.kaggle.com/samanfatima7)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020408)](https://www.linkedin.com/in/saman-fatima-datascience/)
+[![lablab.ai](https://img.shields.io/badge/LABLAB.AI-7F77DD?style=for-the-badge&labelColor=020408)](https://lablab.ai/u/@safima__)
 
-**Languages:** Python, SQL
-**ML / DL:** scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, PyTorch
-**Data:** pandas, NumPy, Polars
-**Viz:** Matplotlib, Seaborn, Plotly
-**LLMs / Agents:** Groq, Llama, OpenAI, LangChain (hackathon work)
+</div>
 
 ---
 
-### Hackathons
+## `[02]` — MISSION BRIEFING
 
-Active on [lablab.ai](https://lablab.ai/u/@safima__) — built four end-to-end AI products with small teams under tight deadlines. Highlights:
+I work across the full stack — EDA, classical ML, deep learning for vision & language, time-series, and increasingly **LLM & agent-based systems**. I write notebooks the way I wish someone had written them for me: **clearly, with reasoning shown, results you can reproduce.**
 
-- **Urdu Legal E-Commerce Agent** — a multi-agent system that simplifies Pakistani legal documents in Urdu (Llama + Groq) → [project page](https://lablab.ai/ai-hackathons/raise-your-hack/binary-ninjas/legal-e-commerce-ai-agent)
-- **Python Buddy** — an AI tutor with a Socratic hint system and an automated code coach → [project page](https://lablab.ai/ai-hackathons/co-creating-with-gpt-5/code-commanders/ai-master)
-- Two **Predictive Network Maintenance** systems for off-grid school connectivity → [AIstronauts](https://lablab.ai/ai-hackathons/aistronauts-space-agents-on-a-mission/ai-astronauts/predictive-network-maintenance-system) · [AI for Connectivity](https://lablab.ai/ai-hackathons/ai-for-connectivity-hackathon/dreamscape-agenz/predictive-network-maintenance-system)
-
-Full writeups in the [`ai-hackathons`](https://github.com/samanfatima7/ai-hackathons) repo.
+Outside of building, I **mentor juniors** and help aspiring Kagglers find their footing on the platform.
 
 ---
 
-### Get in touch
+## `[03]` — SKILL MATRIX
 
-I'm always open to collaboration — research, competitions, side projects, mentoring. If you want to work together or just say hi:
+<div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/)
-- 📊 [Kaggle](https://www.kaggle.com/samanfatima7)
-- 🧪 [lablab.ai](https://lablab.ai/u/@safima__)
+![Python](https://img.shields.io/badge/Python-020408?style=flat-square&logo=python&logoColor=00ff88)
+![SQL](https://img.shields.io/badge/SQL-020408?style=flat-square&logo=postgresql&logoColor=00ff88)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-020408?style=flat-square&logo=scikit-learn&logoColor=00ff88)
+![XGBoost](https://img.shields.io/badge/XGBoost-020408?style=flat-square&logoColor=00ff88)
+![LightGBM](https://img.shields.io/badge/LightGBM-020408?style=flat-square&logoColor=00ff88)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-020408?style=flat-square&logo=tensorflow&logoColor=00ff88)
+![PyTorch](https://img.shields.io/badge/PyTorch-020408?style=flat-square&logo=pytorch&logoColor=00ff88)
+![Keras](https://img.shields.io/badge/Keras-020408?style=flat-square&logo=keras&logoColor=00ff88)
+![pandas](https://img.shields.io/badge/pandas-020408?style=flat-square&logo=pandas&logoColor=00ff88)
+![NumPy](https://img.shields.io/badge/NumPy-020408?style=flat-square&logo=numpy&logoColor=00ff88)
+![Polars](https://img.shields.io/badge/Polars-020408?style=flat-square&logoColor=00ff88)
+![Plotly](https://img.shields.io/badge/Plotly-020408?style=flat-square&logo=plotly&logoColor=00ff88)
+![LangChain](https://img.shields.io/badge/LangChain-020408?style=flat-square&logoColor=00ff88)
+![Groq](https://img.shields.io/badge/Groq-020408?style=flat-square&logoColor=00ff88)
+![OpenAI](https://img.shields.io/badge/OpenAI-020408?style=flat-square&logo=openai&logoColor=00ff88)
 
-<p align="center"><sub>Thanks for stopping by — go build something interesting.</sub></p>
+</div>
 
+---
 
+## `[04]` — REPOSITORY INDEX
+
+| ID | REPO | MISSION |
+|----|------|---------|
+| `01` | [`exploratory-data-analysis`](https://github.com/samanfatima7/exploratory-data-analysis) | EDA & viz — billionaires, food production, app stores, public health |
+| `02` | [`deep-learning-computer-vision`](https://github.com/samanfatima7/deep-learning-computer-vision) | CNN classifiers — plant disease, fruit quality, cats/dogs — 90%+ accuracy |
+| `03` | [`nlp-and-sequence-models`](https://github.com/samanfatima7/nlp-and-sequence-models) | RNN & BiLSTM text models + full red-teaming walkthrough |
+| `04` | [`machine-learning-classical`](https://github.com/samanfatima7/machine-learning-classical) | Tabular ML — fraud detection, regression, classification |
+| `05` | [`time-series-and-finance`](https://github.com/samanfatima7/time-series-and-finance) | Stock-price & crypto-market starter notebooks |
+| `06` | [`kaggle-competitions`](https://github.com/samanfatima7/kaggle-competitions) | Competition baselines and starter notebooks |
+| `07` | [`ai-hackathons`](https://github.com/samanfatima7/ai-hackathons) | LLM & agent products from lablab.ai hackathons |
+
+---
+
+## `[05]` — MISSION FILES // HACKATHONS
+
+**`MISSION 01`** — Urdu Legal E-Commerce Agent 
+
+**`MISSION 02`** — Python Buddy
+
+**`MISSION 03`** — Predictive Network Maintenance ×2
+
+---
+
+## `[06]` — GITHUB STATS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samanfatima7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00ff88&icon_color=00ff88&text_color=1a6644&ring_color=00ff88&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanfatima7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00ff88&text_color=1a6644"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=samanfatima7&theme=dark&hide_border=true&background=020408&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=1a6644&dates=1a6644&currStreakNum=00ff88&sideNums=00ff88)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `[07]` — ESTABLISH CONTACT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020408)](https://www.linkedin.com/in/saman-fatima-datascience/)
+[![Kaggle](https://img.shields.io/badge/FOLLOW_ON_KAGGLE-00BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=020408)](https://www.kaggle.com/samanfatima7)
+[![lablab](https://img.shields.io/badge/VIEW_ON_LABLAB-7F77DD?style=for-the-badge&labelColor=020408)](https://lablab.ai/u/@safima__)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020408&height=40&text=PKT+//+DATA+SCIENTIST+//+OPEN+TO+COLLABORATE+●&fontColor=00ff8844&fontSize=11&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
