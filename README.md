@@ -16,6 +16,11 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=samanfatima7&style=flat-square&color=a78bfa&label=profile+views)
 
+<br/>
+
+> 🎓 **Actively seeking fully funded MS or PhD opportunities in AI, Machine Learning, or Data Science.**
+> Open to positions worldwide — feel free to reach out or connect.
+
 </div>
 
 ---
